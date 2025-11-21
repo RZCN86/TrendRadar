@@ -1,11 +1,43 @@
-勒克莱尔
-汉密尔顿
-法拉利
+科技
+消费电子
+人工智能
+
+iphone
+ipad
+mac
+ios
+
+Nintendo
+Playstation
+Steam
+
+英超
+德甲
+西甲
 
 切尔西
 曼联
 利物浦
 阿森纳
+
+F1
+勒克莱尔
+维斯塔潘
+汉密尔顿
+法拉利
+
+天国拯救
+GTA
+TGA
+黑神话
+影之刃零
+
+月球
+登月
+火星
+宇宙
+飞船
+航空
 
 DeepSeek
 梁文锋
@@ -22,11 +54,6 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
 
 
 三体
@@ -63,11 +90,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -86,31 +108,4 @@ ai
 芯片
 光刻机
 
-科技
-
 核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
-
-英超
-德甲
-西甲
-F1
-
-天国拯救
-GTA
-TGA
-
-Nintendo
-Playstation
-Steam
